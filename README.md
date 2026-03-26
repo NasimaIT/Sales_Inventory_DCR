@@ -1,2 +1,2 @@
-# Sales_Inventory_DCR
-Sales and inventory analysis using DCR data with Power BI dashboard and business insights
+## 📊 Dashboard Preview
+![Dashboard](Sales_Inventory_DCR_Dashboard.png)
