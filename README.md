@@ -6,7 +6,8 @@ This project analyzes sales performance and inventory data using DCR datasets. T
 ## 📊 Dashboard Preview
 
 ![Dashboard](Sales_Inventory_DCR_Dashboard.png)
-
+## 🧩 Data Model
+![Data Model](Data_Model_DCR.png)
 ## 🔗 Live Dashboard
 👉 [[Click here to view interactive dashboard](PASTE_YOUR_LINK_HERE)](https://app.powerbi.com/view?r=eyJrIjoiYjdjYWIzNTEtOGU0Zi00YjNjLTkxODgtZTkzMTdlYzgwMTA4IiwidCI6ImZjNzUwYjE2LWRjZjMtNDNiZC04OGI5LTMzMTUyZTlkOTBkOSIsImMiOjF9)
 
@@ -24,7 +25,6 @@ This project analyzes sales performance and inventory data using DCR datasets. T
 ## 📁 Files Included
 - `Sales_Inventory_DCR_Dashboard.pbix` – Power BI dashboard file
 - `Sales_Inventory_DCR_Dashboard.png` – Dashboard preview image
-
 
 ## 🚀 Project Purpose
 This project demonstrates the use of business intelligence tools to transform raw operational data into meaningful insights that support strategic decision-making.
